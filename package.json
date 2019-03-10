@@ -1,0 +1,25 @@
+{
+  "name": "euitool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "_fs-extra@7.0.1@fs-extra": "^7.0.1",
+    "_graceful-fs@4.1.15@graceful-fs": "^4.1.15",
+    "_universalify@0.1.2@universalify": "^0.1.2",
+    "_jsonfile@4.0.0@jsonfile": "^4.0.0",
+    "fs-extra": "^7.0.1",
+    "graceful-fs": "^4.1.15",
+    "jsonfile": "^4.0.0",
+    "universalify": "^0.1.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
